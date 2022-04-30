@@ -1,4 +1,4 @@
-<h1 align="center">tindog :dog:</h1>
+<h1 align="center">Tindog :dog:</h1>
 
 <h2>Tecnologias Utilizadas</h2>
 <li> Bootstrap 5</li>
